@@ -20,36 +20,8 @@
 
 ## Why Converter NOW
 
-A few years ago I noticed that most of the unit converters on the digital stores were ugly, not immediately usable, with ads and tracking software. I thought it would be a  good idea to develop Converter NOW in order to solve all these problems!
 
-🚀 It is made to be **easy**, **fast** and **usable**: just start typing and immediately you have the real-time conversion with all the other units of measurement!
 
-🖌️ It is **customizable**: the units can be reorganized according to your priorities and your use case
-
-🔢 It integrates a **Calculator** that let you do the calculations in every page
-
-💰 Currency conversions are **updated daily**
-
-⚫⚪ **Choose your favourite theme**: dark or white theme
-
-📱🖥️ **Full Smartphone, Tablet and Web app support**
-
-💯 It is **free**, **no ads**, **no analytics**, **no permissions** (just Internet to update currency conversions). And first of all it is **open source**!
-
-## Installation
-
-You can find the compiled app in [GitHub releases](https://github.com/ferraridamiano/ConverterNOW/releases) or in all of the following app stores:
-
-### Android
-
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-    alt="Get it on Google Play"
-    height="72">](https://play.google.com/store/apps/details?id=com.ferrarid.converterpro)
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-    alt="Get it on F-Droid"
-    height="72">](https://f-droid.org/packages/com.ferrarid.converterpro)
-
-### Linux
 
 [<img src="https://flathub.org/assets/badges/flathub-badge-en.png"
     alt="Download on Flathub"
